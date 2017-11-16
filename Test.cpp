@@ -7,6 +7,7 @@ int main () {
 	cout << "Hi!" << endl;
     cout << "What's up pal? " << endl;
     cout << " COOL BEANS" << endl;
+	cout << "How is school?" << endl;
 
 	system("pause");
 	return 1;
