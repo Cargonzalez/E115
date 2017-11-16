@@ -3,11 +3,7 @@ using namespace std;
 
 int main () {
 	
-	cout << "Hello there !  " << endl;
-	cout << "Hi!" << endl;
-    cout << "What's up pal? " << endl;
-    cout << " COOL BEANS" << endl;
-	cout << "How is school?" << endl;
+	cout << "This is from Test2 branch" << endl;
 
 	system("pause");
 	return 1;
